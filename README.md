@@ -2,6 +2,24 @@
 
 A new Flutter application that lets you make video and audio call.
 
+Voice Call UI : 
+
+![Alt text for your video](https://2.bp.blogspot.com/-uDBdyjV3cec/XKh7uF5xqbI/AAAAAAAAUaQ/MJUPf-gXuYoVpZqEdyLsazN9KUGIKXwBgCLcBGAs/s640/Screenshot%2B2019-04-06%2Bat%2B2.37.29%2BPM.png)
+
+
+About Me : https://about.me/itsravishankarsingh
+
+Devmins Developers : https://devmins-developers.business.site/
+
+Youtube Channel: https://www.youtube.com/channel/UCUMrRePIS_TOjxxnY1bUydA
+
+Freelance : https://www.freelancer.co.ke/u/devmins
+
+Facebook : https://www.facebook.com/devminsdevelopers/
+
+LinkedIn : https://www.linkedin.com/company/devmins/
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
