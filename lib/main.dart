@@ -40,6 +40,7 @@ class _VoiceCallPageState extends State<VoiceCallPage> {
               }
             }));
   }
+  
 
   String getTimerTime(int start) {
     int minutes = (start ~/ 60);
@@ -64,7 +65,13 @@ class _VoiceCallPageState extends State<VoiceCallPage> {
     super.initState();
     startTimmer();
   }
-
+  
+  @override
+  void dispose() {
+    _timmerInstance.cancel();
+    super.dispose();
+  }
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
