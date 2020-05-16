@@ -1,6 +1,7 @@
 # lets_call
 
 A new Flutter application that lets you make video and audio call.
+Note: It's just an UI not the full working application.
 
 Voice Call UI : 
 
